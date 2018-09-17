@@ -1,0 +1,106 @@
+Welcome to the Cinema Ticket Purchasing System
+Please enter your name: 
+Nikkolas Diehl
+Please enter your age: 
+18
+Are you a student? (Y/N)
+y
+Which film would you like to watch: 
+1 Ant-Man, Rating: (P)
+2 Minions, Rating: (P)
+3 Jarassic World, Rating: (M)
+4 Inside Out, Rating: (G)
+3
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: Jarassic World, Rating: (M)
+CUSTOMER DETAILS: Nikkolas Diehl, age: 18, student? yes
+TOTAL COST: $8.50
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+y
+Please enter your name: 
+James Darkij
+Please enter your age: 
+55
+Are you a student? (Y/N)
+n
+Which film would you like to watch: 
+1 Ant-Man, Rating: (P)
+2 Minions, Rating: (P)
+3 Jarassic World, Rating: (M)
+4 Inside Out, Rating: (G)
+3
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: Jarassic World, Rating: (M)
+CUSTOMER DETAILS: James Darkij, age: 55, student? no
+TOTAL COST: $10.00
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+y
+Please enter your name: 
+Katty McCloud
+Please enter your age: 
+12
+Are you a student? (Y/N)
+y
+Which film would you like to watch: 
+1 Ant-Man, Rating: (P)
+2 Minions, Rating: (P)
+3 Jarassic World, Rating: (M)
+4 Inside Out, Rating: (G)
+4
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: Inside Out, Rating: (G)
+CUSTOMER DETAILS: Katty McCloud, age: 12, student? yes
+TOTAL COST: $7.00
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+y
+Please enter your name: 
+Greggory Stanton
+Please enter your age: 
+19
+Are you a student? (Y/N)
+y
+Which film would you like to watch: 
+1 Ant-Man, Rating: (P)
+2 Minions, Rating: (P)
+3 Jarassic World, Rating: (M)
+4 Inside Out, Rating: (G)
+3
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: Jarassic World, Rating: (M)
+CUSTOMER DETAILS: Greggory Stanton, age: 19, student? yes
+TOTAL COST: $8.50
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+y
+Please enter your name: 
+Larry Trottinghom
+Please enter your age: 
+48
+Are you a student? (Y/N)
+y
+Which film would you like to watch: 
+1 Ant-Man, Rating: (P)
+2 Minions, Rating: (P)
+3 Jarassic World, Rating: (M)
+4 Inside Out, Rating: (G)
+3
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: Jarassic World, Rating: (M)
+CUSTOMER DETAILS: Larry Trottinghom, age: 48, student? yes
+TOTAL COST: $9.00
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+n

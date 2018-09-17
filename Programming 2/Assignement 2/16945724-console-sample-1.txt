@@ -1,0 +1,254 @@
+WELCOME TO TRAINBOOKING.CO...
+
+Which Train operator would you like to travel with today?
+1: TrainWay
+2: ChooChoo
+Menu Item: 2
+
+Welcome to the ChooChoo booking system...
+Which train journey would you like to book a seat on?
+1: Journey: TJ1000 from: Auckland to: Howick departing at: 10:00h
+2: Journey: TS3000 from: Britomart to: Henderson departing at: 18:00h
+3: Journey: GOT100 from: Kings Landing to: East Watch departing at: 15:00h
+4: Journey: GOT200 from: Winterfell to: Dragonstone departing at: 03:00h
+5: Journey: NY3000 from: Los Angelous to: Manhatten departing at: 04:05h
+6: Journey: GALACTIC101 from: Andromena to: Milky Way departing at: 07:06h
+Menu Item: 3
+
+Booking seats for: Journey: GOT100 from: Kings Landing to: East Watch departing at: 15:00h
+ENTER TO CONTINUE....
+
+
+----------------------------
+|        FLOOR GRID        |
+----------------------------
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 1
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 2
+
+First class AISLE seat at: 1B has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W _ ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 2
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 3
+
+Economy class MIDDLE seat at: 5D has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W _ ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 2
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 1
+
+Economy class WINDOW seat at: 5A has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W _ ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 1
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 1
+
+First class WINDOW seat at: 1A has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 1
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 3
+
+First class MIDDLE seat at: 1D has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W X ] [A X ] [A _ ] [M X ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 2
+
+Which seat type?
+1: WINDOW
+2: AISLE
+3: MIDDLE
+Menu Item: 2
+
+Economy class AISLE seat at: 5B has been reserved for you
+
+ENTER TO SHOW SEATS AND CONTINUE....
+
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W X ] [A X ] [A _ ] [M X ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w X ] [a X ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 3
+
+Floor Grid:
+FIRST CLASS
+    A      B      C      D      E      F      G
+1  [W X ] [A X ] [A _ ] [M X ] [A _ ] [A _ ] [W _ ] 
+2  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+3  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+4  [W _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [W _ ] 
+ECONOMY CLASS
+    A      B      C      D      E      F      G
+5  [w X ] [a X ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ] 
+6  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+7  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+8  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+9  [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+10 [w _ ] [a _ ] [a _ ] [m _ ] [a _ ] [a _ ] [w _ ] 
+
+1: Book in First Class
+2: Book in Economy Class
+3: Show Floor Grid
+4: Quit
+Menu Item: 4
+Good Bye.
